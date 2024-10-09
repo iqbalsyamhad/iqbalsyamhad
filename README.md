@@ -6,7 +6,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iqbalsyamhad&show_icons=true&include_all_commits=true&theme=radical" alt="iqbalsyamhad's GitHub Stats" style="max-width: 100%; height: auto;"/>
   </a>
   <a href="https://github.com/iqbalsyamhad">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalsyamhad&theme=algolia" style="max-width: 100%; height: auto;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalsyamhad&hide=CSS&theme=algolia" style="max-width: 100%; height: auto;"/>
   </a>
 </div>
 
